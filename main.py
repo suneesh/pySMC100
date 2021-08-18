@@ -1,4 +1,4 @@
-from delayline2 import SMC100
+from smc100 import SMC100
 
 smc_port = 'COM8'
 sr830m_port = 'COM7'
